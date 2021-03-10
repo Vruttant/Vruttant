@@ -18,6 +18,6 @@ I am Vruttant Balde 😃, from Bhopal, Madhya Pradesh 🏫.
 - 🔔 Subscribe:- [Vruttant Balde](https://www.youtube.com/channel/UCIZ2jzjKVpdTuHWkshCrTlg)
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Vruttant's github stats](https://github-readme-stats.vercel.app/api?username=vruttant&hide=["issues"]&show_icons=true)
+![Vruttant's github stats](https://github-readme-stats.vercel.app/api?username=vruttant&hide=["issues"]&show_icons=true&theme=dark)
 
 ⭐️ From [Vruttant](https://github.com/Vruttant)

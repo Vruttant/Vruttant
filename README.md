@@ -5,18 +5,14 @@
 [![Twitter Badge](https://img.shields.io/badge/-@vruttantt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vruttantt)](https://twitter.com/vruttantt) [![Linkedin Badge](https://img.shields.io/badge/-vruttantb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vruttantb/)](https://www.linkedin.com/in/vruttantb/)
 [![Gmail Badge](https://img.shields.io/badge/-vruttantb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vruttantb@gmail.com)](mailto:vruttantb@gmail.com)
 
-I am Vruttant Balde 😃, from Bhopal, Madhya Pradesh 🏫.
+I am Vruttant Balde, from Bhopal, Madhya Pradesh.
 
-## ⚡ Technologies
-- Front-end development using **React.js, Bootstrap + jQuery**
+## Technologies
+- Front-end development using **Blazor (Webassembly), Bootstrap + jQuery**
 - Backend development using **Python Flask, ASP.NET (Core)**
 - Mobile application development using **Flutter**
 - Solving Data structure and algorithm questions in **Python**
 
-## Hello World!! ⭐️
-- 💬 Ask me about anything and everything!
-- 🔔 Subscribe:- [Vruttant Balde](https://www.youtube.com/channel/UCIZ2jzjKVpdTuHWkshCrTlg)
-- ⚡ Fun fact: Internet users blink less than usual.
 
 ![Vruttant's github stats](https://github-readme-stats.vercel.app/api?username=vruttant&hide=["issues"]&show_icons=true&theme=dark)
 

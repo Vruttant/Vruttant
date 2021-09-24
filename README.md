@@ -8,8 +8,8 @@
 I am Vruttant Balde, from Bhopal, Madhya Pradesh.
 
 ## Technologies
-- Front-end development using **Blazor (Webassembly), Bootstrap + jQuery**
-- Backend development using **Python Flask, ASP.NET (Core)**
+- Front-end development using **Blazor (Webassembly), Reactjs**
+- Backend development using **Python Flask, ASP.NET (Core), Django**
 - Mobile application development using **Flutter**
 - Solving Data structure and algorithm questions in **Python**
 

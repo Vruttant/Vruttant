@@ -1,19 +1,2 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-[![Twitter Badge](https://img.shields.io/badge/-@vruttantt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vruttantt)](https://twitter.com/vruttantt) [![Linkedin Badge](https://img.shields.io/badge/-vruttantb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vruttantb/)](https://www.linkedin.com/in/vruttantb/)
-[![Gmail Badge](https://img.shields.io/badge/-vruttantb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vruttantb@gmail.com)](mailto:vruttantb@gmail.com)
-
-I am Vruttant Balde, from Bhopal, Madhya Pradesh.
-
-## Technologies
-- Front-end development using **Blazor (Webassembly), Reactjs**
-- Backend development using **Python Flask, ASP.NET (Core), Django**
-- Mobile application development using **Flutter**
-- Solving Data structure and algorithm questions in **Python**
-
-
-![Vruttant's github stats](https://github-readme-stats.vercel.app/api?username=vruttant&hide=["issues"]&show_icons=true&theme=dark)
-
-⭐️ From [Vruttant](https://github.com/Vruttant)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Vruttant&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vruttant&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
